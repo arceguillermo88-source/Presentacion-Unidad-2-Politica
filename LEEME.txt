@@ -1,0 +1,1 @@
+Subir index.html al repositorio de GitHub Pages. Settings > Pages > Deploy from a branch > main > / (root). Usar la URL publicada en Moodle mediante iframe. Las imágenes están incorporadas. El marcador se guarda localmente si el navegador lo permite. No registra notas. Publicar solo con autorización.
